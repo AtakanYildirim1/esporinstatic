@@ -1,1 +1,6 @@
-
+{
+  "name": "Esporin static ",
+  "about_url": "https://github.com/procourse/procourse-static-pages",
+  "license_url": "https://github.com/procourse/procourse-static-pages/blob/master/LICENSE.txt",
+  "component": "true"
+}
